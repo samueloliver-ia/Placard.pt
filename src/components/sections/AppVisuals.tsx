@@ -12,7 +12,7 @@ export function AppVisuals() {
       <div className="container mx-auto px-4">
         <div className="text-center mb-24 relative z-10">
           <h2 className="text-3xl md:text-5xl font-bold mb-6">
-            Uma obra de arte em forma de <span className="text-gradient">aplicativo</span>
+            Uma obra de arte em forma de <span className="text-gradient">aplicação</span>
           </h2>
           <p className="text-gray-400 text-lg max-w-2xl mx-auto">
             Design premium pensado para máxima performance. Esqueça a bagunça dos sites tradicionais.

@@ -92,7 +92,7 @@ export default function DownloadPage() {
             </div>
             <div className="pt-2">
               <h3 className="text-neon-green font-black text-lg tracking-tight uppercase mb-1">BAIXE O ARQUIVO</h3>
-              <p className="text-sm text-gray-400 leading-snug">O arquivo APK será salvo no seu dispositivo (normalmente na pasta Downloads).</p>
+              <p className="text-sm text-gray-400 leading-snug">O ficheiro APK será salvo no seu dispositivo (normalmente na pasta Downloads).</p>
             </div>
           </div>
 
@@ -108,7 +108,7 @@ export default function DownloadPage() {
             </div>
             <div className="pt-2">
               <h3 className="text-neon-green font-black text-lg tracking-tight uppercase mb-1">ABRA O ARQUIVO APK</h3>
-              <p className="text-sm text-gray-400 leading-snug">Vá para a pasta de notificações ou downloads do seu celular e toque no arquivo baixado.</p>
+              <p className="text-sm text-gray-400 leading-snug">Vá para a pasta de notificações ou transferências do seu telemóvel e toque no ficheiro descarregado.</p>
             </div>
           </div>
 
@@ -139,8 +139,8 @@ export default function DownloadPage() {
               </div>
             </div>
             <div className="pt-2">
-              <h3 className="text-neon-green font-black text-lg tracking-tight uppercase mb-1">INSTALE E ABRA O APLICATIVO</h3>
-              <p className="text-sm text-gray-400 leading-snug">Toque em "Instalar", aguarde alguns segundos e abra o aplicativo para começar a lucrar!</p>
+              <h3 className="text-neon-green font-black text-lg tracking-tight uppercase mb-1">INSTALE E ABRA O APLICAÇÃO</h3>
+              <p className="text-sm text-gray-400 leading-snug">Toque em "Instalar", aguarde alguns segundos e abra o aplicação para começar a lucrar!</p>
             </div>
           </div>
         </div>
@@ -174,7 +174,7 @@ export default function DownloadPage() {
           <div className="flex items-start gap-2">
             <CheckCircle2 className="w-5 h-5 text-neon-green shrink-0" />
             <div>
-              <div className="text-[10px] font-bold text-white">+ DE 500 MIL USUÁRIOS</div>
+              <div className="text-[10px] font-bold text-white">+ DE 500 MIL UTILIZADORES</div>
               <div className="text-[9px] text-gray-500">confiam no Placard.pt</div>
             </div>
           </div>

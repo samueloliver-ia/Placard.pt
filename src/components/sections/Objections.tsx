@@ -20,7 +20,7 @@ export function Objections() {
 
             <ul className="mt-8 flex flex-col gap-5">
               {[
-                { icon: <ShieldCheck className="w-6 h-6 text-neon-green" />, text: "Aplicativo 100% verificado e livre de malwares." },
+                { icon: <ShieldCheck className="w-6 h-6 text-neon-green" />, text: "Aplicação 100% verificada e livre de malwares." },
                 { icon: <Lock className="w-6 h-6 text-neon-cyan" />, text: "Seus dados estão protegidos com criptografia ponta a ponta." },
                 { icon: <CheckCircle2 className="w-6 h-6 text-neon-green" />, text: "Instalação guiada e simples em menos de 1 minuto." },
                 { icon: <DownloadCloud className="w-6 h-6 text-neon-cyan" />, text: "Atualizações contínuas de segurança." },

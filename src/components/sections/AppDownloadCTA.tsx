@@ -16,7 +16,7 @@ export function AppDownloadCTA() {
           JOGUE COM CONFIANÇA NO APP
         </h2>
         <p className="text-sm text-gray-400 mb-6 max-w-[280px]">
-          Baixe o Placard.pt oficial e acesse as melhores odds dos principais esportes diretamente do seu celular.
+          Descarregue o Placard.pt oficial e acesse as melhores odds dos principais desportos diretamente do seu telemóvel.
         </p>
 
         <div className="flex flex-col gap-3 w-full mb-6 text-left">
@@ -45,7 +45,7 @@ export function AppDownloadCTA() {
               <Flame className="w-3 h-3" /> Atenção: Oferta Limitada
             </p>
             <p className="text-gray-300 text-[13px] leading-snug">
-              Baixe agora e <strong className="text-white">ganhe um bônus de 60,00€</strong> no seu primeiro acesso! 
+              Descarregue agora e <strong className="text-white">ganhe um bônus de 60,00€</strong> no seu primeiro acesso! 
               <span className="block mt-1 text-red-400 text-[11px] font-bold">⚠️ Restam apenas 7 bônus hoje.</span>
             </p>
           </div>
@@ -53,10 +53,10 @@ export function AppDownloadCTA() {
 
         <Link href="/download" className="w-full flex items-center justify-center gap-2 bg-neon-green text-[#121212] py-4 rounded-xl font-black text-lg uppercase tracking-wide shadow-[0_4px_25px_rgba(0,255,163,0.4)] hover:scale-[1.02] transition-transform animate-pulse">
           <Download className="w-6 h-6" />
-          Baixar Placard.pt APK
+          Descarregar Placard.pt APK
         </Link>
         <p className="text-[10px] text-gray-500 mt-4 text-center max-w-[250px]">
-          Exclusivo para Android. Ao baixar você concorda com nossos Termos de Serviço e Política de Privacidade.
+          Exclusivo para Android. Ao descarregar concorda com os nossos Termos de Serviço e Política de Privacidade.
         </p>
       </div>
     </section>

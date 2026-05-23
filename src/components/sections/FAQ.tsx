@@ -6,12 +6,12 @@ import { ChevronDown } from "lucide-react";
 
 const faqs = [
   {
-    q: "Como instalo o aplicativo no meu Android?",
-    a: "A instalação é muito simples. Ao clicar em 'Baixar App', o arquivo APK será baixado. Basta abrir o arquivo e autorizar a instalação. Fornecemos um tutorial em vídeo rápido na próxima tela caso você tenha dúvidas."
+    q: "Como instalo o aplicação no meu Android?",
+    a: "A instalação é muito simples. Ao clicar em 'Descarregar App', o ficheiro APK será descarregado. Basta abrir o ficheiro e autorizar a instalação. Fornecemos um tutorial em vídeo rápido na próxima ecrã caso você tenha dúvidas."
   },
   {
-    q: "O aplicativo é seguro?",
-    a: "Totalmente. O Placard.pt utiliza os mesmos protocolos de segurança de aplicativos bancários. Somos verificados livre de vírus e malwares por diversas plataformas de segurança."
+    q: "A aplicação é segura?",
+    a: "Totalmente. O Placard.pt utiliza os mesmos protocolos de segurança de aplicações bancárias. Somos verificados livre de vírus e malwares por diversas plataformas de segurança."
   },
   {
     q: "Em quanto tempo recebo os sinais?",
@@ -19,7 +19,7 @@ const faqs = [
   },
   {
     q: "Funciona em iOS (iPhone)?",
-    a: "No momento, o Placard.pt é um aplicativo Premium Exclusivo para Android, focado em entregar a melhor performance nativa para este sistema operacional."
+    a: "No momento, o Placard.pt é uma aplicação Premium Exclusiva para Android, focado em entregar a melhor performance nativa para este sistema operacional."
   },
   {
     q: "Preciso ter experiência prévia?",

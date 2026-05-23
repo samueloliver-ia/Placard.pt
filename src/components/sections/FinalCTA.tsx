@@ -12,7 +12,7 @@ export function FinalCTA() {
         <div className="inline-block mb-6 px-4 py-2 rounded-full glass border border-neon-green/40">
           <span className="text-neon-green font-bold flex items-center gap-2 uppercase tracking-widest text-sm">
             <span className="w-2 h-2 rounded-full bg-neon-green animate-pulse" />
-            Vagas Limitadas Para Novos Usuários
+            Vagas Limitadas Para Novos Utilizadores
           </span>
         </div>
 
@@ -30,7 +30,7 @@ export function FinalCTA() {
         >
           <div className="absolute inset-0 bg-white/30 translate-y-full group-hover:translate-y-0 transition-transform duration-300" />
           <Download className="w-8 h-8" />
-          <span>BAIXAR APP AGORA</span>
+          <span>DESCARREGAR APP AGORA</span>
         </a>
 
         <div className="mt-8 text-gray-500 text-sm flex items-center gap-4">

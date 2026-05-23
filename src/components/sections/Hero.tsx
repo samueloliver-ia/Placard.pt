@@ -21,7 +21,7 @@ export function Hero() {
         >
           <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full glass border border-neon-green/30 w-fit">
             <span className="w-2 h-2 rounded-full bg-neon-green animate-pulse" />
-            <span className="text-sm font-medium text-neon-green">O Aplicativo #1 de Performance Esportiva</span>
+            <span className="text-sm font-medium text-neon-green">A Aplicação #1 de Performance Desportiva</span>
           </div>
 
           <h1 className="text-4xl sm:text-5xl md:text-7xl font-extrabold tracking-tight leading-[1.1]">
@@ -41,7 +41,7 @@ export function Hero() {
             >
               <div className="absolute inset-0 bg-white/20 translate-y-full group-hover:translate-y-0 transition-transform duration-300" />
               <Download className="w-6 h-6" />
-              <span>BAIXAR APP AGORA</span>
+              <span>DESCARREGAR APP AGORA</span>
             </a>
             
             <div className="flex flex-col justify-center items-center lg:items-start gap-1">
@@ -50,7 +50,7 @@ export function Hero() {
                   <Star key={star} className="w-4 h-4 fill-neon-green text-neon-green" />
                 ))}
               </div>
-              <span className="text-sm text-gray-400">Junte-se a +10.000 usuários lucrando</span>
+              <span className="text-sm text-gray-400">Junte-se a +10.000 utilizadores lucrando</span>
             </div>
           </div>
         </motion.div>

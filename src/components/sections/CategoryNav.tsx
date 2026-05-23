@@ -4,8 +4,8 @@ import { Trophy, Activity, Target, Swords, Gamepad2 } from "lucide-react";
 
 const categories = [
   { id: "futebol", label: "Futebol", icon: Trophy },
-  { id: "basquete", label: "Basquete", icon: Target },
-  { id: "tenis", label: "Tênis", icon: Activity },
+  { id: "basquetebol", label: "Basquetebol", icon: Target },
+  { id: "tenis", label: "Ténis", icon: Activity },
   { id: "esports", label: "E-Sports", icon: Gamepad2 },
   { id: "mma", label: "MMA", icon: Swords },
 ];

@@ -4,8 +4,8 @@ import { ChevronRight, Trophy } from "lucide-react";
 
 const topLeagues = [
   { id: "champions", title: "Liga dos Campeões", sport: "Futebol", img: "/champions.png", tag: "TOP" },
-  { id: "nba", title: "NBA", sport: "Basquete", img: "/nba.png", tag: "HOT" },
-  { id: "ufc", title: "UFC", sport: "MMA", img: "/ufc.png", tag: "AO VIVO" },
+  { id: "nba", title: "NBA", sport: "Basquetebol", img: "/nba.png", tag: "HOT" },
+  { id: "ufc", title: "UFC", sport: "MMA", img: "/ufc.png", tag: "EM DIRETO" },
   { id: "brasileirao", title: "Brasileirão", sport: "Futebol", img: "/brasileirao.png", tag: "TOP" }
 ];
 

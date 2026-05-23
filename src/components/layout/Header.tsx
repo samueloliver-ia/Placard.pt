@@ -26,7 +26,7 @@ export function Header() {
             className="flex items-center gap-1 bg-neon-green text-[#121212] px-2 py-1.5 sm:px-3 sm:py-1.5 rounded-md font-bold text-[10px] sm:text-sm shadow-[0_0_15px_rgba(0,255,163,0.3)] hover:shadow-[0_0_20px_rgba(0,255,163,0.6)] transition-all animate-pulse-slow shrink-0 whitespace-nowrap"
           >
             <Download className="w-3 h-3 sm:w-4 sm:h-4" />
-            <span className="hidden sm:inline">BAIXAR APP</span>
+            <span className="hidden sm:inline">DESCARREGAR APP</span>
             <span className="sm:hidden">APP</span>
           </Link>
         </div>

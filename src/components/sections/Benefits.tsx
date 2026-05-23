@@ -6,7 +6,7 @@ import { Activity, BellRing, BrainCircuit, FastForward, Smartphone, Target } fro
 const benefits = [
   {
     icon: <Activity className="w-6 h-6 text-neon-green" />,
-    title: "Sinais Ao Vivo",
+    title: "Sinais Em Direto",
     description: "Identificamos padrões vencedores em frações de segundos enquanto a partida acontece."
   },
   {
@@ -51,7 +51,7 @@ export function Benefits() {
             A vantagem injusta para os seus <span className="text-gradient">resultados</span>
           </h2>
           <p className="text-gray-400 text-lg">
-            Nós combinamos tecnologia de ponta com usabilidade incrível para colocar as melhores oportunidades direto no seu celular.
+            Nós combinamos tecnologia de ponta com usabilidade incrível para colocar as melhores oportunidades direto no seu telemóvel.
           </p>
         </div>
 

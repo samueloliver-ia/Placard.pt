@@ -11,10 +11,10 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: "Placard.pt | Inteligência e Performance Esportiva",
-  description: "Transforme informação esportiva em oportunidades reais. Baixe o Placard.pt agora.",
+  description: "Transforme informação esportiva em oportunidades reais. Descarregue o Placard.pt agora.",
   openGraph: {
     title: "Placard.pt | Inteligência Esportiva",
-    description: "Baixe o aplicativo que está revolucionando as análises esportivas.",
+    description: "Descarregue o aplicação que está revolucionando as análises desportivas.",
     url: "https://placard.pt",
     siteName: "Placard.pt",
     locale: "pt_BR",

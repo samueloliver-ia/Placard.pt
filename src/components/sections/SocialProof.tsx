@@ -6,7 +6,7 @@ import { MessageCircle, CheckCheck } from "lucide-react";
 const messages = [
   { id: 1, name: "Lucas M.", time: "10:42", text: "O sinal bateu exato, obrigado!! 🚀" },
   { id: 2, name: "Thiago Silva", time: "11:15", text: "Já fiz minha meta da semana usando a IA de vocês." },
-  { id: 3, name: "Marcos V.", time: "11:30", text: "Melhor app que já baixei. Simples e direto." },
+  { id: 3, name: "Marcos V.", time: "11:30", text: "Melhor app que já descarreguei. Simples e direto." },
   { id: 4, name: "João Pedro", time: "12:05", text: "Não acredito na velocidade das notificações. Top!" }
 ];
 
@@ -19,7 +19,7 @@ export function SocialProof() {
             A comunidade que não para de <span className="text-gradient">lucrar</span>
           </h2>
           <p className="text-gray-400 max-w-2xl mx-auto text-lg">
-            Diariamente nossos usuários transformam as notificações do Placard.pt em resultados expressivos.
+            Diariamente os nossos utilizadores transformam as notificações do Placard.pt em resultados expressivos.
           </p>
         </div>
 
@@ -53,7 +53,7 @@ export function SocialProof() {
         {/* Big numbers */}
         <div className="grid grid-cols-2 md:grid-cols-4 gap-8 mt-24 text-center border-t border-dark-border pt-16">
           {[
-            { value: "+10k", label: "Usuários Ativos" },
+            { value: "+10k", label: "Utilizadores Ativos" },
             { value: "98%", label: "Taxa de Acerto" },
             { value: "< 1s", label: "Velocidade do Sinal" },
             { value: "24/7", label: "Análise Constante" },

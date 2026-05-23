@@ -74,7 +74,7 @@ export function LiveSportsBets() {
         <div className="flex items-center gap-2">
           <div className="w-1.5 h-6 bg-neon-green rounded-full"></div>
           <h3 className="text-lg font-black italic tracking-tight text-white uppercase">
-            Ao Vivo Agora
+            Em Direto Agora
           </h3>
         </div>
         <button onClick={handleFakeClick} className="text-gray-400 text-xs font-bold flex items-center hover:text-neon-green transition-colors">
