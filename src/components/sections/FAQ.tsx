@@ -6,7 +6,7 @@ import { ChevronDown } from "lucide-react";
 
 const faqs = [
   {
-    q: "Como instalo o aplicação no meu Android?",
+    q: "Como instalo a aplicação no meu Android?",
     a: "A instalação é muito simples. Ao clicar em 'Descarregar App', o ficheiro APK será descarregado. Basta abrir o ficheiro e autorizar a instalação. Fornecemos um tutorial em vídeo rápido na próxima ecrã caso você tenha dúvidas."
   },
   {

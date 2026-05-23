@@ -13,10 +13,10 @@ export function AppDownloadCTA() {
         </div>
         
         <h2 className="text-2xl font-black italic tracking-tight text-white mb-2">
-          JOGUE COM CONFIANÇA NO APP
+          JOGUE COM CONFIANÇA NA APP
         </h2>
         <p className="text-sm text-gray-400 mb-6 max-w-[280px]">
-          Descarregue o Placard.pt oficial e acesse as melhores odds dos principais desportos diretamente do seu telemóvel.
+          Descarregue o Placard.pt oficial e aceda às melhores odds dos principais desportos diretamente do seu telemóvel.
         </p>
 
         <div className="flex flex-col gap-3 w-full mb-6 text-left">
@@ -26,11 +26,11 @@ export function AppDownloadCTA() {
           </div>
           <div className="flex items-center gap-3 bg-[#1A1A1A] p-3 rounded-xl border border-white/5">
             <CheckCircle2 className="w-5 h-5 text-neon-green flex-shrink-0" />
-            <span className="text-sm font-medium text-gray-200">Notificações exclusivas de bônus</span>
+            <span className="text-sm font-medium text-gray-200">Notificações exclusivas de bónus</span>
           </div>
           <div className="flex items-center gap-3 bg-[#1A1A1A] p-3 rounded-xl border border-white/5">
             <ShieldCheck className="w-5 h-5 text-neon-green flex-shrink-0" />
-            <span className="text-sm font-medium text-gray-200">Saque e depósito na hora</span>
+            <span className="text-sm font-medium text-gray-200">Levantamentos e depósitos na hora</span>
           </div>
         </div>
 
@@ -45,8 +45,8 @@ export function AppDownloadCTA() {
               <Flame className="w-3 h-3" /> Atenção: Oferta Limitada
             </p>
             <p className="text-gray-300 text-[13px] leading-snug">
-              Descarregue agora e <strong className="text-white">ganhe um bônus de 60,00€</strong> no seu primeiro acesso! 
-              <span className="block mt-1 text-red-400 text-[11px] font-bold">⚠️ Restam apenas 7 bônus hoje.</span>
+              Descarregue agora e <strong className="text-white">ganhe um bónus de 60,00€</strong> no seu primeiro acesso! 
+              <span className="block mt-1 text-red-400 text-[11px] font-bold">⚠️ Restam apenas 7 bónus hoje.</span>
             </p>
           </div>
         </div>

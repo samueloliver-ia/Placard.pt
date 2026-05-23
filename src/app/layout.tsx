@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   description: "Transforme informação esportiva em oportunidades reais. Descarregue o Placard.pt agora.",
   openGraph: {
     title: "Placard.pt | Inteligência Esportiva",
-    description: "Descarregue o aplicação que está revolucionando as análises desportivas.",
+    description: "Descarregue a aplicação que está a revolucionar as análises desportivas.",
     url: "https://placard.pt",
     siteName: "Placard.pt",
     locale: "pt_BR",

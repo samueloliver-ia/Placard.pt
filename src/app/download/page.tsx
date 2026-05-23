@@ -11,7 +11,7 @@ export default function DownloadPage() {
       {/* Hero Section */}
       <div className="w-full max-w-md flex flex-col items-center relative z-10">
         <h1 className="text-[28px] leading-[1.1] font-black text-center mb-3 uppercase italic tracking-tight">
-          BAIXE O APP PLACARD.PT<br />
+          DESCARREGUE A APP PLACARD.PT<br />
           E GANHE <span className="text-neon-green">BÔNUS!</span>
         </h1>
         <p className="text-gray-400 text-sm text-center mb-8">
@@ -36,7 +36,7 @@ export default function DownloadPage() {
           <div className="flex flex-col items-center text-center gap-2 p-2 rounded-lg border border-neon-green/20 bg-neon-green/5">
             <Gift className="w-6 h-6 text-neon-green" />
             <span className="text-[9px] font-bold text-neon-green leading-tight">BÔNUS EXCLUSIVOS</span>
-            <span className="text-[8px] text-gray-400">só no app</span>
+            <span className="text-[8px] text-gray-400">só na app</span>
           </div>
           <div className="flex flex-col items-center text-center gap-2 p-2 rounded-lg border border-white/5 bg-[#121212]">
             <Zap className="w-6 h-6 text-neon-green" />
@@ -62,7 +62,7 @@ export default function DownloadPage() {
           className="w-full flex items-center justify-center gap-2 bg-neon-green text-[#121212] py-4 rounded-xl font-black text-lg uppercase tracking-wide shadow-[0_0_25px_rgba(0,255,163,0.3)] hover:scale-[1.02] transition-transform animate-pulse"
         >
           <Download className="w-6 h-6" />
-          BAIXE O APP AGORA
+          DESCARREGUE A APP AGORA
         </a>
         <div className="flex items-center gap-1.5 mt-3 text-gray-400 text-xs">
           <ShieldCheck className="w-4 h-4 text-neon-green" />
@@ -139,8 +139,8 @@ export default function DownloadPage() {
               </div>
             </div>
             <div className="pt-2">
-              <h3 className="text-neon-green font-black text-lg tracking-tight uppercase mb-1">INSTALE E ABRA O APLICAÇÃO</h3>
-              <p className="text-sm text-gray-400 leading-snug">Toque em "Instalar", aguarde alguns segundos e abra o aplicação para começar a lucrar!</p>
+              <h3 className="text-neon-green font-black text-lg tracking-tight uppercase mb-1">INSTALE E ABRA A APLICAÇÃO</h3>
+              <p className="text-sm text-gray-400 leading-snug">Toque em "Instalar", aguarde alguns segundos e abra a aplicação para começar a lucrar!</p>
             </div>
           </div>
         </div>
@@ -153,7 +153,7 @@ export default function DownloadPage() {
             </div>
             <div>
               <h4 className="text-white font-black text-lg tracking-tight">PRONTO! 🎉</h4>
-              <p className="text-xs text-gray-400 leading-snug max-w-[180px]">Agora é só aproveitar as melhores <span className="text-neon-green font-bold">odds e apostas</span> no app.</p>
+              <p className="text-xs text-gray-400 leading-snug max-w-[180px]">Agora é só aproveitar as melhores <span className="text-neon-green font-bold">odds e apostas</span> na app.</p>
             </div>
           </div>
           <div className="bg-neon-green text-[#121212] px-3 py-2 rounded-lg font-black text-[10px] leading-tight text-center relative z-10 shadow-[0_0_15px_rgba(0,255,163,0.3)] border border-dashed border-[#121212]">
