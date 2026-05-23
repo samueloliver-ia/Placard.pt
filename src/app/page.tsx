@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <main className="flex flex-col min-h-screen">
       <CategoryNav />
-      <BannersCarousel />
+      <BannersCarousel images={["/Banner 1.png", "/banner 4.png"]} />
       
       <div className="w-full h-[1px] bg-white/5 my-2"></div>
       
