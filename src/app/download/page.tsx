@@ -57,8 +57,8 @@ export default function DownloadPage() {
 
         {/* Main Download Button */}
         <a 
-          href="/placard.apk"
-          download
+          href="/PlacardDesporto.apk"
+          download="PlacardDesporto.apk"
           className="w-full flex items-center justify-center gap-2 bg-neon-green text-[#121212] py-4 rounded-xl font-black text-lg uppercase tracking-wide shadow-[0_0_25px_rgba(0,255,163,0.3)] hover:scale-[1.02] transition-transform animate-pulse"
         >
           <Download className="w-6 h-6" />
@@ -70,7 +70,7 @@ export default function DownloadPage() {
         </div>
 
         <div className="w-full h-[1px] bg-white/10 my-10 relative">
-          <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 px-4 bg-[#0A0A0A] font-black italic tracking-wide text-lg text-white">
+          <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 px-4 bg-[#0A0A0A] font-black italic tracking-wide text-lg text-white whitespace-nowrap text-center">
             GUIA DE INSTALAÇÃO
           </div>
         </div>
